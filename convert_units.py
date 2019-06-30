@@ -3,13 +3,13 @@
 Created on Wed Jun 28 11:41:10 2019
 youtube video: 
 https://www.youtube.com/watch?v=JRCay58jOso
-1h53
 @author: LB
 
 
 TBD:
     - convert A -> B -> C  using Graph Theory
     - add new info to the dictionary
+    - complete the input part - add some help (ex.: possible entries: ...)
 
 """
 
