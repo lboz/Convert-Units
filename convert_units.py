@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=JRCay58jOso
 
 TBD:
     - convert A -> B -> C  using Graph Theory
+    - add new info to the dictionary
 
 """
 
